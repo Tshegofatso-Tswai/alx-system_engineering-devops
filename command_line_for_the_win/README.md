@@ -1,0 +1,1 @@
+This directory contains various scripts and solutions for challenges related to the command line. Each script addresses a specific task, showcasing the use of command-line tools to achieve different objectives. These challenges cover a range of system administration and DevOps tasks, demonstrating practical command-line skills.
