@@ -1,0 +1,1 @@
+This directory contains code exercises related to loops, conditions, and parsing. These concepts are fundamental to programming and are essential for controlling the flow of a program and processing data.
