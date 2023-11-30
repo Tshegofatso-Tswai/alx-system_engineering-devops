@@ -1,0 +1,1 @@
+This directory contains solutions and examples related to networking basics in the context of system engineering and DevOps. Understanding networking fundamentals is crucial for managing servers, configuring network devices, and troubleshooting connectivity issues.
