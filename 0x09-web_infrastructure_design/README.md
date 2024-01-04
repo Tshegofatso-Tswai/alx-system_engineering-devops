@@ -77,7 +77,7 @@ A three-server web infrastructure for hosting www.foobar.com with improved scala
 - **No Monitoring:** Absence of a monitoring system for performance tracking.
 
 ## Screenshot
-![Distributed Web Infrastructure Screenshot](https://imgur.com/LXYy5Km)
+![Distributed Web Infrastructure Screenshot](https://i.imgur.com/LXYy5Km.png)
 
 
 # Secured and Monitored Web Infrastructure
@@ -103,7 +103,7 @@ A secured and monitored three-server web infrastructure for hosting www.foobar.c
 - **Uniform Server Components:** Potential problems with identical components on all servers.
 
 ## Screenshot
-![Secured and Monitored Web Infrastructure Screenshot](https://imgur.com/tAYCrue)
+![Secured and Monitored Web Infrastructure Screenshot](https://i.imgur.com/tAYCrue.png)
 
 
 # Scale Up
@@ -120,5 +120,5 @@ An advanced setup to scale up the web infrastructure, differentiating components
 - **Component Separation:** Each component (web server, app server, database) has its dedicated server.
 
 ## Screenshot
-![Scale Up Screenshot](https://imgur.com/VcZRhuO)
+![Scale Up Screenshot](https://i.imgur.com/VcZRhuO.png)
 
