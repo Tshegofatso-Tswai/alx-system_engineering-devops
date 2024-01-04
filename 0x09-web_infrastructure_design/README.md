@@ -1,3 +1,4 @@
+# Introduction
 In this project, we are tasked with designing a simple web infrastructure, a distributed web infrastructure, a sercure and monitored web infrastructure, and a scale up web infrastructure.
 
 # Simple Web Stack
@@ -49,7 +50,7 @@ In this project, we are tasked with designing a simple web infrastructure, a dis
 
 ## Screenshot
 
-![Web Stack Screenshot](https://imgur.com/OHtE25Y)
+![Web Stack Screenshot](https://i.imgur.com/OHtE25Y.png)
 
 
 # Distributed Web Infrastructure
