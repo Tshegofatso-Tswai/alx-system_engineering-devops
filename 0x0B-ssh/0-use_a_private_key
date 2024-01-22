@@ -1,0 +1,7 @@
+#!/bin/bash
+# This script connects to a server using ssh with a private key
+# Set the server IP address 18.206.208.180
+# Set the private key file ~/.ssh/school
+# Set the username ubuntu
+# Use ssh with single-character flags to connect to the server
+ssh -i "~/.ssh/school" "ubuntu" "18.206.208.180"
