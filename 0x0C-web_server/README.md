@@ -1,0 +1,1 @@
+This directory contains configurations and scripts related to setting up and managing a web server. Web servers play a fundamental role in serving web content and applications. The scripts and configurations here are designed to facilitate the deployment and management of a web server environment.
