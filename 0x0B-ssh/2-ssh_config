@@ -1,7 +1,7 @@
 # Configure ssh client so that you can connect to a server without typing a password.
 
 Host tshufi-server
-    HostName 18.206.208.180
+    HostName 54.85.131.238
     User ubuntu
     IdentityFile ~/.ssh/school
     PasswordAuthentication no
